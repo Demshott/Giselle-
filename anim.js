@@ -5,13 +5,13 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
   { text: "Pero hay una cosa", time: 0 },
-  { text: "que te debo decir", time: 3 },
-  { text: "no es nada facil", time: 6 },
-  { text: "estar tan lejos de ti", time: 8 },
+  { text: "que te debo decir", time: 2 },
+  { text: "no es nada facil", time: 5 },
+  { text: "estar tan lejos de ti", time: 7 },
   { text: "porque me haces enloquecer", time: 13 },
   { text: "tu me enchinas la piel", time: 17 },
-  { text: "Cada parte de tu ser", time: 21 },
-  { text: "Es alimento a mi bien..", time: 23 },
+  { text: "Cada parte de tu ser", time: 20 },
+  { text: "Es alimento a mi bien..", time: 22 },
   { text: "vuelvo a respirar", time: 26 },
   { text: "cada paso que das", time: 34 },
   { text: "Afirmas mi amar..", time: 36 },
